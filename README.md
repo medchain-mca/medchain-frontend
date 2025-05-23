@@ -24,7 +24,7 @@ VITA leverages Stellar's high-performance consensus mechanism and native asset c
 - Contributing to the repository
 
 ```
-git clone https://github.com/vita-protocol/vita-core.git
+git clone https://github.com/vita-mca/vita-frontend.git
 cd vita-core
 ```
 # Install dependencies
